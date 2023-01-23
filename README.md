@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Saeed Anwar Khan
+#### I am a Software Engineer who loves to work with Data
+![I am a Software Engineer who loves to work with Data](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**saeed1507100/saeed1507100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working as a Data Engineer and I have 2.5 years of experience with Data Engineering.
 
-Here are some ideas to get you started:
+Skills: Python / SQL / Pyspark / Oracle / Hadoop / Hive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Data Integration Framework to make Data Engineers life a lot easier.
+
+
+
+
